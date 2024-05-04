@@ -1,3 +1,8 @@
+![gojo-gojo-satoru](https://github.com/decodedwarrior/decodedwarrior/assets/146792820/274b45c4-2813-4480-b30a-52fcceb613ae)
+![Uploading gojo-gojo-sato![Uploading hello-gojo-satoru.gif…]()
+ru.gif…]()
+
+
 - 👋 Hi, I’m @decodedwarrior
 - 👀 I’m interested in ...right now front end(./.)
 - 🌱 I’m currently learning ...oops concept(:
@@ -13,5 +18,4 @@
 decodedwarrior/decodedwarrior is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![gojo-gojo-satoru](https://github.com/decodedwarrior/decodedwarrior/assets/146792820/0980c78d-1c81-46ff-9891-82cf5646bc53)
-![Uploading hello-gojo-satoru.gif…]()
+
