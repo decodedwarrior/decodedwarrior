@@ -1,8 +1,4 @@
-![gojo-gojo-satoru](https://github.com/decodedwarrior/decodedwarrior/assets/146792820/274b45c4-2813-4480-b30a-52fcceb613ae)
-![Uploading gojo-gojo-sato![Uploading hello-gojo-satoru.gif…]()
-ru.gif…]()
-
-
+![hi](https://github.com/decodedwarrior/decodedwarrior/assets/146792820/b0a69ccd-dbde-4430-b2a8-31f1c9c1dee9)
 - 👋 Hi, I’m @decodedwarrior
 - 👀 I’m interested in ...right now front end(./.)
 - 🌱 I’m currently learning ...oops concept(:
